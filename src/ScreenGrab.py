@@ -125,13 +125,6 @@ def main():
     timesNotFound = 0
 
     while True:
-        # carrierMatches = subImg(carrierGreen, screenGrabToRam(), True)
-        # for match in carrierMatches:
-        #     mousePos(match)
-        #
-        #     for x in range(0, 6):
-        #         leftClick()
-        #         time.sleep(.01)
 
         if isMotherShipHere():
             print('Mothership is here!')
