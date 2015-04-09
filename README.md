@@ -2,7 +2,7 @@
 
 VisionBot is a Python program that can help you play [Save The Earth!](http://www.savetheearth.es/)It was written to learn a little about Python and about how to create a bot to help you 'cheat' at a game. [How to Build a Python Bot That Can Play Web Games](http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117)was used as a guide for this project. 
 
-To use, extract the zip file and run ScreenGrab.py. Make sure Save The Earth is running and is visible on your screen. 
+To use, run ScreenGrab.py. Make sure Save The Earth is running and is visible on your screen. 
 
 * * *
 
