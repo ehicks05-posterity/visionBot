@@ -30,3 +30,7 @@ To summarize:
 *   NumPy
 *   Python for Windows Extensions (Pywin32)
 *   Python Imaging Library (PIL)
+
+### Configuration
+
+Some configuration may be needed for resolutions other than 1920x1200.
